@@ -1,0 +1,8 @@
+dealership_data/
+source_data/
+dealership_logfile.txt
+dealership_transformed_data.csv
+elt_basic.ipynb
+ExtractTransformLoad_V2.ipynb
+logfile.txt
+transformed_data.csv
